@@ -1,0 +1,42 @@
+[
+    {
+        "pattern": "ERRO",
+        "color": "#B02020",  
+        "background": "",
+        "bold": true,       
+        "italic": false,
+        "case_sensitive": false
+    },
+    {
+        "pattern": "AVISO",
+        "color": "#C87F00",  
+        "background": "",
+        "bold": false,
+        "italic": false,
+        "case_sensitive": false
+    },
+    {
+        "pattern": "INFO",
+        "color": "#1F4E79",  
+        "background": "",
+        "bold": false,
+        "italic": false,
+        "case_sensitive": false
+    },
+    {
+        "pattern": "DEBUG",
+        "color": "#6A6A6A",  
+        "background": "",
+        "bold": false,
+        "italic": true,
+        "case_sensitive": false
+    },
+    {
+        "pattern": "CRITICAL",
+        "color": "#8B0000",  
+        "background": "",
+        "bold": true,
+        "italic": false,
+        "case_sensitive": false
+    }
+]

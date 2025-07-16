@@ -1,0 +1,18 @@
+[
+    {
+        "nome": "srvIntegraWeb",
+        "logs": "C:\\Quality\\LOG\\Integra"
+    },
+    {
+        "nome": "ServicoAutomacao",
+        "logs": "C:\\Quality\\LOG\\webPostoLeituraAutomacao"
+    },
+    {
+        "nome": "webPostoPayServer",
+        "logs": "C:\\Quality\\LOG\\webPostoPayServer"
+    },
+    {
+        "nome": "ServicoFiscal",
+        "logs": "C:/Quality/LOG/webPostoFiscalServer"
+    }
+]
